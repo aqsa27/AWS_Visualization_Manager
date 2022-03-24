@@ -18,18 +18,3 @@ A pipeline for storing the files along with their meta-data. The files can be se
 ## Pipeline
 ![alt text](https://github.com/SainathDutkar/AWS_Content_Manager/blob/master/images/pipeline.PNG)
 
-
-## User Interface
-
-Upload File
-![alt text](https://github.com/SainathDutkar/AWS_Content_Manager/blob/master/images/UploadFilePage.PNG)
-
-Retrive and download file
-![alt text](https://github.com/SainathDutkar/AWS_Content_Manager/blob/master/images/RetriveFilesPage.PNG)
-
-Merge Files
-![alt text](https://github.com/SainathDutkar/AWS_Content_Manager/blob/master/images/MergeFilesPage.PNG)
-
-
-## Replication
-The general information and steps to replicate the project can be found in the file under documentation folder
